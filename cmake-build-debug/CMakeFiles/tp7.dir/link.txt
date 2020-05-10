@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tp7.dir/main.cpp.o CMakeFiles/tp7.dir/FileHandling.cpp.o CMakeFiles/tp7.dir/CIndex.cpp.o  -o tp7 
